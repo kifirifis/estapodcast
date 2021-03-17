@@ -1,2 +1,3 @@
 # Estapodcast
-Podcast estadística, probabilidad y cultura de datos abiertos. Este podcast cuante con una licencia GNU General Public License v3.0 y está patrocinado por KSTATS. 
+
+Estapodcast es una iniciativa de KStats para la difución de la cultura estadística, la  probabilidad, el software libre y los datos abiertos. Este podcast se distribuye bajo una licencia GNU General Public License v3.0
