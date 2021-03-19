@@ -9,7 +9,10 @@ output:
 Estapodcast es una iniciativa patrocinada por [KStats](https://kstats.es/) bajo licencia GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007. 
 
 
-## Capítulo 1: Datos abiertos ¿accesibles?
+## Episodio 1: Datos abiertos ¿accesibles?
 
-Preview capítulo 1. 
+En este episodio hablamos con David Rodríguez Mateos sobre el papel de los datos abiertos durante la pandemia por SARS-COV2 en España. 
+
+![Episodio 1](Episodio1.mp3)
+
 
